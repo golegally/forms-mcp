@@ -1,0 +1,10 @@
+{
+  "name": "golegally-forms",
+  "version": "1.0.6",
+  "description": "Forms, submissions, field values and themes in GoLegally FormEngine.",
+  "mcpServers": {
+    "golegally-forms": {
+      "httpUrl": "https://golegally-forms.mcp.pretuned.ai/mcp"
+    }
+  }
+}
