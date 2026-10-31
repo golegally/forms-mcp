@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.golegally/forms-mcp",
+  "title": "GoLegally Forms",
+  "description": "Forms, submissions, field values and themes in GoLegally FormEngine.",
+  "repository": {
+    "url": "https://github.com/golegally/forms-mcp",
+    "source": "github"
+  },
+  "version": "1.0.6",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://golegally-forms.mcp.pretuned.ai/mcp"
+    }
+  ]
+}
