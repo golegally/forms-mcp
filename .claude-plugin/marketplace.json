@@ -1,0 +1,16 @@
+{
+  "name": "golegally-forms",
+  "owner": {
+    "name": "Vadavision Private Limited"
+  },
+  "metadata": {
+    "description": "Forms, submissions, field values and themes in GoLegally FormEngine."
+  },
+  "plugins": [
+    {
+      "name": "golegally-forms",
+      "source": "./",
+      "description": "Forms, submissions, field values and themes in GoLegally FormEngine."
+    }
+  ]
+}

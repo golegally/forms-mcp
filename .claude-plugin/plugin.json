@@ -1,0 +1,16 @@
+{
+  "name": "golegally-forms",
+  "displayName": "GoLegally Forms",
+  "version": "1.0.6",
+  "description": "Forms, submissions, field values and themes in GoLegally FormEngine.",
+  "author": {
+    "name": "Vadavision Private Limited",
+    "url": "https://golegally.com"
+  },
+  "homepage": "https://golegally.com",
+  "supportUrl": "https://golegally.com/contact",
+  "privacyPolicyUrl": "https://golegally.com/privacy",
+  "termsOfServiceUrl": "https://golegally.com/terms",
+  "license": "MIT",
+  "icon": "assets/logo.png"
+}

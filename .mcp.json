@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "golegally-forms": {
+      "type": "http",
+      "url": "https://golegally-forms.mcp.pretuned.ai/mcp"
+    }
+  }
+}
