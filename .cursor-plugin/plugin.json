@@ -1,0 +1,9 @@
+{
+  "name": "golegally-forms",
+  "version": "1.0.6",
+  "description": "Forms, submissions, field values and themes in GoLegally FormEngine.",
+  "author": {
+    "name": "Vadavision Private Limited"
+  },
+  "logo": "assets/logo.png"
+}
